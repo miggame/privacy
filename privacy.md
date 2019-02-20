@@ -2,9 +2,9 @@
 
 This Privacy Notice explains who we are, how we collect, share and use personal information about you, and how you can exercise your privacy rights. The Services are also governed by the <font color=##FF0000>Terms of Service</font>.
 
-We are Rovio Entertainment Corporation, maker of Angry Birds, Bad Piggies, Battle Bay and many more. For details about how to contact us, see the <font color=#FF0000>"How To Contact Us"</font> section below.
+We are MiGGene Studios, maker of Brick Break and many more. For details about how to contact us, see the <font color=#FF0000>"How To Contact Us"</font> section below.
 
-This Privacy Notice applies to personal information that we collect through our games, mobile applications and other products ("Games"), forums (https://forum.angrybirds.com/ and https://forum.battlebay.net/) and websites we control, like at www.rovio.com, www.angrybirds.com and www.battlebay.com ("Website") (collectively “Services”).
+This Privacy Notice applies to personal information that we collect through our games, mobile applications and other products ("Games"), forums and websites we control.
 
 ##  1. WHAT PERSONAL INFORMATION DOES ROVIO COLLECT?  
 The personal information we may collect about you through the Services falls into the following general categories:
